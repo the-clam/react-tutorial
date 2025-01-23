@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Hero = ({ title = 'Become a React Dev', subtitle = 'Find the React job that fies your skill set' }) => {
+const Hero = ({ title = 'Become a React Dev', subtitle = 'Find the React job that fits your skill set' }) => {
   {/*props passed in through here, destructured + default*/ }
   return (
     <>
